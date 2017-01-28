@@ -1,0 +1,5 @@
+<meta>
+	<info name="FrontEndSoundList Tester" description="Plays sounds from the FrontEndSoundList and tells you what they are" author="AWOJosh" type="script" />
+
+	<script src="soundTester.cs" type="server" lang="csharp" />
+	</meta>
